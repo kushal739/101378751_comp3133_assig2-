@@ -1,3 +1,4 @@
 # 101378751_comp3133_assig2-
 
 Step 1: Setting Up the Angular Project
+npm install -g @angular/cli
